@@ -1,0 +1,11 @@
+.vscode/configurationCache.log
+.vscode/.cortex-debug.peripherals.state.json
+.vscode/.cortex-debug.registers.state.json
+.vscode/*.log
+.vscode/targets.logbuild
+misc
+build*
+msrc_gui/**/bin/**
+msrc_gui/**/obj/**
+msrc_gui/**/.vs/**
+!msrc_gui/**/build**
